@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cronometro/static/css/main.9701cf29.css",
-    "main.js": "/cronometro/static/js/main.be4cb4a8.js",
-    "static/media/cronometro.png": "/cronometro/static/media/cronometro.910ec1f0ccef27233284.png",
-    "index.html": "/cronometro/index.html",
-    "main.9701cf29.css.map": "/cronometro/static/css/main.9701cf29.css.map",
-    "main.be4cb4a8.js.map": "/cronometro/static/js/main.be4cb4a8.js.map"
+    "main.css": "/Cronometro/static/css/main.9701cf29.css",
+    "main.js": "/Cronometro/static/js/main.622c2db1.js",
+    "static/media/cronometro.png": "/Cronometro/static/media/cronometro.910ec1f0ccef27233284.png",
+    "index.html": "/Cronometro/index.html",
+    "main.9701cf29.css.map": "/Cronometro/static/css/main.9701cf29.css.map",
+    "main.622c2db1.js.map": "/Cronometro/static/js/main.622c2db1.js.map"
   },
   "entrypoints": [
     "static/css/main.9701cf29.css",
-    "static/js/main.be4cb4a8.js"
+    "static/js/main.622c2db1.js"
   ]
 }
